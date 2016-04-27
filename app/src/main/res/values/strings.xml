@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">ShareJesus</string>
+    <string name="basic_questions">
+        1. Do you have any kind of spiritual belief?\n
+        2. To you, who is Jesus?\n
+        3. Do you believe there are a heaven and a hell?\n
+        4. If you died right now, where would you go?\n
+        5. If what you believed were not true, would you want to know it?
+    </string>
+
+    <string name="button_back">Back</string>
+    <string name="button_next">Next</string>
+    <string name="button_home">Home</string>
+
+
+    <!-- Application Actionbar -->
+    <string name="actionbar_title">Share Jesus</string>
+    <string name="action_about">About</string>
+    <string name="about_message">
+        This guide is based on Bill Fay\'s \"Share Jesus Without Fear\" method
+        of sharing the Gospile.  For more information on this method and
+        additional resources reference LifeWay\'s website:
+        http://www.sharejesuswithoutfear.com/.
+        \n\n
+        Quoted Bible verses in this guide are from The New King James Version
+        (NKJV) Copyright © 1982 by Thomas Nelson, Inc.
+        \n\n
+        This Android application was developed by Shepherd Software Solutions.
+        EMail any comments or suggestion to: pauldshep@gmail.com.
+    </string>
+
+
+    <!-- Main Screen Questions -->
+    <string name="main_title">Basic Questions</string>
+    <string name="question_1">Do you have any kind of spiritual belief?</string>
+    <string name="question_2">To you, who is Jesus?</string>
+    <string name="question_3">Do you believe there is a heaven and hell?</string>
+    <string name="question_4">If you died right now, where would you go?</string>
+    <string name="question_5">If what you believed were not true, would you want to know it?</string>
+
+
+    <!-- Romans 3:23 (NKJV) -->
+    <string name="romans3_23_title">
+        Romans 3:23
+    </string>
+    <string name="romans3_23_text">
+        For all have sinned and fall short of the glory of God.
+    </string>
+
+
+    <!-- Romans 6:23 (NKJV) -->
+    <string name="romans6_23_title">
+        Romans 6:23
+    </string>
+    <string name="romans6_23_text">
+        For the wages of sin is death, but the gift of God is eternal life
+        in Christ Jesus our Lord.
+    </string>
+
+
+    <!-- John 3:3 (NKJV) -->
+    <string name="john3_3_title">
+        John 3:3
+    </string>
+    <string name="john3_3_text">
+        In reply Jesus declared, "I tell you the truth, on one can see the
+        kingdom of God unless he is born again".
+    </string>
+
+
+    <!-- John 14:6 (NKJV) -->
+    <string name="john14_6_title">
+        John 14:6
+    </string>
+    <string name="john14_6_text">
+        Jesus answered, "I am the way and the truth and the life.  No one comes to the Father except through me".
+    </string>
+
+
+    <!-- Romans 10:9-11 (NKJV) -->
+    <string name="romans10_9_title">
+        Romans 10:9-11
+    </string>
+
+    <string name="romans10_9_text">
+        That if you confess with your mouth, "Jesus is Lord," and believe in your
+        heart that God raised him from the dead, you will be saved. For it is
+        with your heart that you believe and are justified, and it is with your
+        mouth that you confess and are saved. As the Scripture says, "Anyone who
+        trusts in him will never be put to shame".
+    </string>
+
+
+    <!-- 2Corinthians 5:15 (NKJV) -->
+    <string name="corinthians5_15_title">
+        2 Corinthians 5:15
+    </string>
+
+    <string name="corinthians5_15_text">
+        And he died for all, that those who live should no longer live for
+        themselves but for him who died for them and was raised again.
+    </string>
+
+
+    <!-- Revelation 3:20 (NKJV) -->
+    <string name="revelation3_20_title">
+        Revelation 3:20
+    </string>
+
+    <string name="revelation3_20_text">
+        Here I am! I stand at the door and knock. If anyone hears my voice and
+        opens the door, I will come in and eat with him, and he with me.
+    </string>
+
+</resources>
